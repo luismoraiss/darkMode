@@ -1,0 +1,14 @@
+body{
+  transition: background-color 0.5ms, color 1ms
+}
+
+.dark-mode{
+  background-color: #000 ;
+  color: #fff;
+}
+
+#botao1{
+  border-radius: 10px;
+
+
+}
